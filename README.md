@@ -1,2 +1,2 @@
-# MeuProjPy
- Um projeto simples com Python, Flask e Mysql
+# RedirPy
+ Um projetinho simples com Python, Flask e MySQL.
